@@ -27,4 +27,4 @@ Language: [[Language]]
 
 
 Name:
-![[the-observer.svg]]
+![the-observer.svg](Images/the-observer.svg)
