@@ -1,4 +1,4 @@
-Language: [[Language]]
+Language: [Language](Language/Language.md)
 
 * Steampunk robot
 * Steam powered
