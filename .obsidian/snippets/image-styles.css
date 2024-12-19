@@ -1,0 +1,8 @@
+img {
+   background-color: #ffffff;
+   border-radius: 1rem;
+   padding: 0.2rem;
+}
+.table-images img {
+   width: 100%;
+}

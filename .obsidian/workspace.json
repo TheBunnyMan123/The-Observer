@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "c8cb1d916ae737b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd7ed5f09aca9450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f9b785e775f0025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/Language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Language"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c3f9f8b6a3a22e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8753cb6caf24dd1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df4b0b850de1da0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3c35ab40bebed5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a79e4f1c0e78b16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dc9b9bd973573d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2455445ec74a996c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f118089df46a0b2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0657f1feca1f72de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "91ea058d2455811d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34f076e6eb82179b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "7df4b0b850de1da0",
+  "lastOpenFiles": [
+    "New folder",
+    "Untitled",
+    "Language/Language.md",
+    "Untitled.md",
+    "The Observer.md",
+    "Images/energy.svg",
+    "Images/everything.svg",
+    "Images/aquatic.svg",
+    "Images/grid.svg",
+    "Images/life.svg",
+    "Images/mechanical.svg",
+    "Images/mechanical+life.svg",
+    "Images/observe.svg",
+    "Images/the-observer.svg",
+    "Images/time.svg",
+    "The Observer.zip",
+    "zi3xvvmO",
+    "Images.zip",
+    "Images",
+    "Images - 24-12-18-23-58-28-326142665",
+    "Language",
+    "Welcome.md"
+  ]
+}
