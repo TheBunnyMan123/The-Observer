@@ -3,6 +3,7 @@ Language: [Language](Language/Language.md)
 
 * Steampunk robot
 * Steam powered
+* green eyes similar to this (but circular):![Images/eyes.png](Images/eyes.png)
 * Has jetpack (also steam powered)
 	* In addition to the jetpack, also has wings that can unfold to continue gliding without using the amount of power the jetpack uses
 		* the wings can fold and unfold, and so can each individual "feather"
