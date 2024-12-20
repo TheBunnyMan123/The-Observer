@@ -163,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7df4b0b850de1da0",
+  "active": "1f9b785e775f0025",
   "lastOpenFiles": [
+    "_layouts/default.html",
+    "_layouts",
     "ExternalImages/SteampunkWings2.png",
     "ExternalImages/SteampunkWings1.md",
     "index.md",
@@ -183,7 +185,6 @@
     "Images/life.svg",
     "Images/mechanical.svg",
     "Images/mechanical+life.svg",
-    "Images/observe.svg",
     "The Observer.zip",
     "zi3xvvmO",
     "Images.zip",
