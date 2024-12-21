@@ -27,8 +27,8 @@ Language: [Language](Language/Language.md)
 * It shows emotion and has opinions, like a modern human
 * Can't make any meaningful sounds other than steam hissing and it's steam whistle
 * It doesn't use it's steam whistle very much
-* steam whistle contained in mouth
-	* is there actually a mouth??
+* whistle located inside the head where the mouth would normally be
+	* by extension, there is no mouth
 * You can hear it's gears as it moves
 * Doesn't have many exposed gears unless it is transforming in some way
 * Its boiler is in its chest but not visible
