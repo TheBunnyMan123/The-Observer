@@ -3,7 +3,7 @@ Language: [Language](Language/Language.md)
 
 * Steampunk robot
 * Steam powered
-* green eyes similar to this (but circular):![Images/eyes.png](Images/eyes.png)
+* green eyes similar to this (but actually circulaar):![Images/eyes.png](Images/eyes.png)
 * Has jetpack (also steam powered)
 	* In addition to the jetpack, also has wings that can unfold to continue gliding without using the amount of power the jetpack uses
 		* the wings can fold and unfold, and so can each individual "feather"
@@ -27,11 +27,13 @@ Language: [Language](Language/Language.md)
 * It shows emotion and has opinions, like a modern human
 * Can't make any meaningful sounds other than steam hissing and it's steam whistle
 * It doesn't use it's steam whistle very much
-	* The steam whistle is in the mouth
+* steam whistle contained in mouth
+	* is there actually a mouth??
 * You can hear it's gears as it moves
 * Doesn't have many exposed gears unless it is transforming in some way
 * Its boiler is in its chest but not visible
 	* Fuel and water goes in through the mouth
+* There is a hatch behind the jetpack to access the boiler and other internals, but the jetpack is firmly latched on at all times
 
 
 Name:
