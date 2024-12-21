@@ -11,6 +11,7 @@ Language: [Language](Language/Language.md)
 		* Wing references (made in blockbench, so the wings should be more smooth): ![WingsOpenBB.png](Images/WingsOpenBB.png)![WingsClosedBB.png](Images/WingsClosedBB.png)
 * Brass
 * Similar to [unicorn warrior copernicus](https://unicorn-warriors-eternal.fandom.com/wiki/Copernicus) but less fat and normal human height
+	* also no tubular arms
 * Archaic (Ancient isn't powerful enough)
 * Existed for hundreds of thousands of years
 * Relic from the very first humans humans
