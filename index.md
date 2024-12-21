@@ -8,8 +8,7 @@ Language: [Language](Language/Language.md)
 	* In addition to the jetpack, also has wings that can unfold to continue gliding without using the amount of power the jetpack uses
 		* the wings can fold and unfold, and so can each individual "feather"
 		* the wings act as a glider to go along with the jetpack
-		* my terrible drawing skills (the wings should unfold like the jetpack+wings drawing):![wings.png](Images/wings.png)
-		* reference :3 (They should be like this but with the "blades"/"feathers" in the above references. Just look at the actual wings not the attaching segment in the middle) (I did not make this, find the maker in the [FiguraMC Discord Server here](https://canary.discord.com/channels/1129805506354085959/1143474692812972083/1143474692812972083)) ![SteampunkWings1.png](ExternalImages/SteampunkWings1.png) ![SteampunkWings2.png](ExternalImages/SteampunkWings2.png)
+		* Wing references (made in blockbench, so the wings should be more smooth): ![WingsOpenBB.png](Images/WingsOpenBB.png)![WingsClosedBB.png](Images/WingsClosedBB.png)
 * Brass
 * Similar to [unicorn warrior copernicus](https://unicorn-warriors-eternal.fandom.com/wiki/Copernicus) but less fat and normal human height
 * Archaic (Ancient isn't powerful enough)
